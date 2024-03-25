@@ -1,0 +1,25 @@
+body{
+    background-color: darkcyan;
+}
+.fa{
+    color: royalblue;
+}
+.ta{
+    color: royalblue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+p{
+    margin: 10px 10px;
+    font-size: 12px;
+}
+
+.box-part{
+    background-color: white;
+    padding: 50px 10px;
+    margin: 30px;
+}
+.box{
+    padding: 70px 1px;
+}
